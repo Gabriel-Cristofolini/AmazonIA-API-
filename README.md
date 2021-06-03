@@ -14,7 +14,8 @@ Este projeto é um desafio lançado em um processo seletivo para Desenvolvedor F
 -- INSTRUÇÕES DE EXECUÇÃO DO PROJETO --
 
   - Baixe o projeto;
-  - Abra no editor de código;
+  - Envie a pasta "AmazonIA API" para a Área de Trabalho;
+  - Abra a pasta no editor de código;
   - Execute o seguinte comando no terminal (sem as aspas):
     - "npm install";
     - "npm install -g firebase-tools";
